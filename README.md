@@ -2,6 +2,10 @@
 
 A simple Streamlit based webapp to translate text to or between numerous languages with mBART-50 from Huggingface and Facebook.
 
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/149639021-5fc99131-029d-4f21-8715-ebdd679c5263.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/149639021-5fc99131-029d-4f21-8715-ebdd679c5263.gif"/> 
+</kbd>
+
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the dependencies.
 
